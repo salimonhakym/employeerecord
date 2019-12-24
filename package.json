@@ -1,6 +1,6 @@
 {
-    "title": "SB Admin",
-    "name": "startbootstrap-sb-admin",
+    "title": "Employee Record Management System",
+    "name": "employeerecord",
     "version": "5.1.1",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
@@ -16,7 +16,7 @@
         "admin",
         "app"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/sb-admin",
+    "homepage": "https://uniquegarb.com.ng/salimonhakym",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-sb-admin/issues",
         "email": "feedback@startbootstrap.com"
@@ -36,7 +36,8 @@
         "chart.js": "2.8.0",
         "datatables.net-bs4": "1.10.19",
         "jquery": "3.4.1",
-        "jquery.easing": "^1.4.1"
+        "jquery.easing": "^1.4.1",
+         "set-value": ">=2.0.1"
     },
     "devDependencies": {
         "browser-sync": "2.26.7",
